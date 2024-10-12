@@ -1,0 +1,174 @@
+.possibility__inner-card-organization,
+.possibility__inner-card-control,
+.possibility__inner-card-administration,
+.possibility__inner-card-task,
+.possibility__inner-card-monitoring,
+.possibility__inner-card-record {
+  border-radius: 10px;
+  max-width: 388px;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 2;
+}
+
+.card-organization__title,
+.card-control__title,
+.card-administration__title,
+.card-task__title,
+.card-monitoring__title,
+.card-record__title {
+  font-size: 24px;
+  font-weight: 500;
+  color: #2f2a37;
+  line-height: 28px;
+}
+
+.card-organization__description,
+.card-control__description,
+.card-administration__description,
+.card-task__description,
+.card-monitoring__description,
+.card-record__description {
+  font-size: 14px;
+  font-weight: 500;
+  color: #2f2a37;
+  line-height: 16px;
+}
+
+.possibility__inner-card-organization {
+  padding: 48px 60px 37px 54px;
+  box-shadow: 2px 2px 8px 1px #0000000a;
+  background: linear-gradient(
+    138.64deg,
+    #ffffff -21.71%,
+    rgba(243, 247, 239, 0) 94.44%
+  );
+}
+
+.card-organization__title {
+  margin-bottom: 21px;
+  max-width: 274px;
+}
+
+.card-organization__description {
+  max-width: 244px;
+}
+
+.possibility__inner-card-control {
+  padding: 48px 64px 48px 63px;
+  box-shadow: 2px 2px 8px 1px #0000000a;
+  background: linear-gradient(
+    138.64deg,
+    #ffffff -21.71%,
+    rgba(243, 247, 239, 0) 94.44%
+  );
+}
+
+.card-control__title {
+  margin-bottom: 27px;
+  max-width: 261px;
+}
+
+.card-control__description {
+  max-width: 244px;
+}
+
+.possibility__inner-card-administration {
+  padding: 50px 34px 67px 55px;
+  box-shadow: 2px 2px 8px 1px #0000000a, 11px 6px 48px 4px #36ff9f;
+  background: linear-gradient(
+    138.64deg,
+    #ffffff -21.71%,
+    rgba(243, 247, 239, 0) 94.44%
+  );
+}
+
+.card-administration__title {
+  margin-bottom: 25px;
+  max-width: 261px;
+}
+
+.card-administration__description {
+  max-width: 299px;
+}
+
+.possibility__inner-card-task {
+  padding: 49px 62px 33px 54px;
+  box-shadow: 2px 2px 8px 1px #0000000a;
+  background: linear-gradient(
+    138.64deg,
+    #ffffff -21.71%,
+    rgba(243, 247, 239, 0) 94.44%
+  );
+}
+
+.card-task__title {
+  margin-bottom: 16px;
+  max-width: 147px;
+}
+
+.card-task__description {
+  max-width: 283px;
+}
+
+.possibility__inner-card-monitoring {
+  padding: 44px 36px 67px 58px;
+  box-shadow: 2px 2px 8px 1px #0000000a;
+  background: linear-gradient(
+    138.64deg,
+    #ffffff -21.71%,
+    rgba(243, 247, 239, 0) 94.44%
+  );
+}
+
+.card-monitoring__title {
+  margin-bottom: 16px;
+  max-width: 237px;
+}
+
+.card-monitoring__description {
+  max-width: 294px;
+}
+
+.possibility__inner-card-record {
+  padding: 44px 54px 67px 51px;
+  box-shadow: 2px 2px 8px 1px #0000000a;
+  background: linear-gradient(
+    138.64deg,
+    #ffffff -21.71%,
+    rgba(243, 247, 239, 0) 94.44%
+  );
+}
+
+.card-record__title {
+  margin-bottom: 16px;
+  max-width: 198px;
+}
+
+.card-record__description {
+  max-width: 283px;
+}
+
+.card-organization__image {
+  margin-bottom: 17px;
+}
+
+.card-control__image {
+  margin-bottom: 18px;
+}
+
+.card-administration__image {
+  margin-bottom: 17px;
+}
+
+.card-task__image {
+  margin-bottom: 16px;
+}
+
+.card-monitoring__image {
+  margin-bottom: 9px;
+}
+
+.card-record__image {
+  margin-bottom: 10px;
+}
